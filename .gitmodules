@@ -1,3 +1,0 @@
-[submodule "git-submodule-2"]
-	path = git-submodule-2
-	url = git@github.com:tutorial-world/git-submodule-2
