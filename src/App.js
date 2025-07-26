@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-// import Button from "./git-submodule-2/src/components/Button";
+import Button from "./git-submodule-2/src/components/Button";
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        {/* <Button /> */}
+        <Button />
         <a
           className="App-link"
           href="https://reactjs.org"
