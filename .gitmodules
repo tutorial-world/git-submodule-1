@@ -1,3 +1,0 @@
-[submodule "src/git-submodule-2"]
-	path = src/git-submodule-2
-	url = https://github.com/cuttleman/git-submodule-2
